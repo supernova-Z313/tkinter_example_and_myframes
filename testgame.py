@@ -2,7 +2,7 @@
 # import msvcrt
 # from msvcrt import getch
 import random
-import readchar
+# import readchar
 # c = {1:[4, 5], 2: [6, 7]}
 # save = []
 # for i in c:
