@@ -19,3 +19,8 @@ pip install tk
 pip3.X install tk
 ```
 
+Or you can install all of them at the same time with the following command:
+
+```console
+pip3.X install -r Requirements.txt
+```
